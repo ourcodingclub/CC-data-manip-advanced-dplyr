@@ -1,7 +1,12 @@
 ## Advanced Creative Data Manipulation: familiarising with the diversity of dplyr package
 
-This repository contains the files necessary to complete the Creative Data Manipulation tutorial - you can check it out at:
-https://eddatascienceees.github.io/tutorial-jwieczor/.
+This repository contains the files necessary to complete the [Advanced Creative Data Manipulation tutorial]().
+***
+
+### Outcomes
+1. Appreciate the variety of functions in `dplyr` package and understand the potential for further learning.
+2. Learn to creatively combine tables.
+3. Become efficient and creative in manipulating variables and cases.
 
 ***
 
@@ -10,6 +15,7 @@ https://eddatascienceees.github.io/tutorial-jwieczor/.
 [__Data__](https://github.com/jwieczor/creative-dplyr-tutorial/tree/main/data): You can find all datasets in this folder. The animal data (`LPI_marine.csv`) were downloaded from [Living Planet Index](https://livingplanetindex.org/data_portal). All the other datasets were created by Jakub Wieczorkowski and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 [__Images__](https://github.com/jwieczor/creative-dplyr-tutorial/tree/main/images): You can use this folder for saving any images when completing the tutorial.
+
 
 ***
 
