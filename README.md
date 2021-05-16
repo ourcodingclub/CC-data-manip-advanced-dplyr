@@ -1,6 +1,6 @@
 ## Advanced Data Manipulation: creative use of diverse dplyr functions
 
-This repository contains the files necessary to complete the [Advanced Data Manipulation tutorial]().
+This repository contains the files necessary to complete the [Advanced Data Manipulation tutorial](https://ourcodingclub.github.io/tutorials/data-manip-creative-dplyr/).
 ***
 
 ### Outcomes
