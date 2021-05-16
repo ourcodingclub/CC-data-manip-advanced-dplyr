@@ -12,9 +12,9 @@ This repository contains the files necessary to complete the [Advanced Data Mani
 
 ### Navigation
 
-[__Data__](https://github.com/ourcodingclub/CC-data-manip-advanced-dplyr/tree/main/data): You can find all datasets in this folder. The animal data (`LPI_marine.csv`) were downloaded from [Living Planet Index](https://livingplanetindex.org/data_portal). All the other datasets were created by Jakub Wieczorkowski and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+[__Data__](https://github.com/ourcodingclub/CC-data-manip-creative-dplyr/tree/main/data): You can find all datasets in this folder. The animal data (`LPI_marine.csv`) were downloaded from [Living Planet Index](https://livingplanetindex.org/data_portal). All the other datasets were created by Jakub Wieczorkowski and are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-[__Images__](https://github.com/ourcodingclub/CC-data-manip-advanced-dplyr/tree/main/images): You can use this folder for saving any images when completing the tutorial.
+[__Images__](https://github.com/ourcodingclub/CC-data-manip-creative-dplyr/tree/main/images): You can use this folder for saving any images when completing the tutorial.
 
 
 ***
